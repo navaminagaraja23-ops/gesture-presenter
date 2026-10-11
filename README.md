@@ -29,7 +29,7 @@ Gestures only work after unlocking. Each one must be held briefly, so unclear mo
 Python, MediaPipe, OpenCV, PyAutoGUI
 
 ## Team
-Yashash M Gowda,
+@YashashMallesh ,
 Yashwanth P,
 Navami G N,
 Rakshitha M V .
