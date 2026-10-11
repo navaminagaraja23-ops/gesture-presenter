@@ -28,9 +28,17 @@ Gestures only work after unlocking. Each one must be held briefly, so unclear mo
 ## Built with
 Python, MediaPipe, OpenCV, PyAutoGUI
 
-## Team
-@YashashMallesh ,
-Yashwanth P,
-Navami G N,
-Rakshitha M V .
+## Contributors
+<a href="https://github.com/YashashMallesh" >
+  <img src="https://avatars.githubusercontent.com/u/191120109?v=4" />
+</a>
+<a href="https://github.com/Yashwanth2947" >
+  <img src="https://avatars.githubusercontent.com/u/338127809?v=4" />
+</a>
+<a href="https://github.com/rakshithamvasanth71-dot" >
+  <img src="https://avatars.githubusercontent.com/u/330738576?v=4">
+</a>
+<a href="https://github.com/navaminagaraja23-ops" >
+  <img src="https://avatars.githubusercontent.com/u/330734560?v=4">
+</a>
 
